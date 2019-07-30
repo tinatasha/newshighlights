@@ -3,18 +3,18 @@
 
 {% block content%}
 <div class="container">
-		<!-- Business News Section  -->
-        <h3> Top Business News </h3>
-        <hr>
-
-        {{ macro.displaySourceList(sources)}}
-
-        <!-- Technology News Section  -->
+	<!-- Technology News Section  -->
          
         <h3> Top Technology News Sources</h3>
         <hr>
 
         {{ macro.displaySourceList(technology_sources)}}
+	
+		<!-- Business News Section  -->
+        <h3> Top Business News </h3>
+        <hr>
+
+        {{ macro.displaySourceList(sources)}}
 
         <!-- Entertainment News Section  -->
          
