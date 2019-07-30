@@ -12,6 +12,13 @@ A Flask project that retrieves the news from an RSS feed and displays it to the 
 * Boostrap
 * Flask
 
+## Set-up and Installation
+    - Clone the Repo
+    - Edit the start.sh file with your api key from the news.org website
+    - Install python 3.6
+    - Run chmod a+x start.py
+    - Run ./start.py
+
 ## License
 
 MIT License
