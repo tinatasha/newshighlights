@@ -18,6 +18,10 @@ A Flask project that retrieves the news from an RSS feed and displays it to the 
     - Install python 3.6
     - Run chmod a+x start.py
     - Run ./start.py
+    
+## Known Bugs
+
+None yet.
 
 ## License
 
