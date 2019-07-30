@@ -23,6 +23,10 @@ A Flask project that retrieves the news from an RSS feed and displays it to the 
 
 None yet.
 
+## Support and contact details
+
+Contact me tashambiti@gmail.com
+
 ## License
 
 MIT License
